@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'backend_session_4_.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'poll-db',
+        'NAME': 'polldb',
         'USER': 'yuna',
         'PASSWORD': 'nk101700!!',
         'HOST': 'mutsa-test-db.cdeie4kk80ta.ap-northeast-2.rds.amazonaws.com',
